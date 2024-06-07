@@ -7,8 +7,8 @@ e= int (input("ingrese su quinto dato \n"))
 d=a+b+c+d
 a1=a*b*c*d*e
 a2=a+b+c+d+e
-a3=d-e
-a4=d/e
+a3=a-b-c-d-e
+a4=a/b/c/d/e
 print("la multiplicación de los 5 numeros ingresados es: ", a1)
 print("la suma de los 5 numeros ingresados es: ", a2)
 print("la resta de los 5 numeros ingresados es: ", a3)
